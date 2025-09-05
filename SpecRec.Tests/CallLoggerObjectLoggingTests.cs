@@ -1,5 +1,3 @@
-using System.Text;
-
 namespace SpecRec.Tests;
 
 public class CallLoggerObjectLoggingTests

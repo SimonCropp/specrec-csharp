@@ -1,5 +1,3 @@
-using Xunit;
-
 namespace SpecRec.Tests;
 
 public class ObjectIdIntegrationTests

@@ -1,4 +1,3 @@
-using Xunit;
 using static SpecRec.GlobalObjectFactory;
 
 namespace SpecRec.Tests

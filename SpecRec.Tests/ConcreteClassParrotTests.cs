@@ -1,7 +1,3 @@
-using System;
-using System.Text;
-using Xunit;
-
 namespace SpecRec.Tests
 {
     public class ConcreteClassParrotTests

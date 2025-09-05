@@ -1,5 +1,4 @@
 using System.Globalization;
-using Xunit;
 using static SpecRec.GlobalObjectFactory;
 
 namespace SpecRec.Tests

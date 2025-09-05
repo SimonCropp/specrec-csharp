@@ -1,5 +1,3 @@
-using static SpecRec.GlobalObjectFactory;
-
 namespace SpecRec.Tests;
 
 public class ObjectFactoryIdTests

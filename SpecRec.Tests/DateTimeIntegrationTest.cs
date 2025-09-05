@@ -1,7 +1,3 @@
-using Xunit;
-using SpecRec;
-using System;
-
 namespace SpecRec.Tests
 {
     public class DateTimeIntegrationTest

@@ -1,6 +1,3 @@
-using Xunit;
-using System.Text;
-
 namespace SpecRec.Tests
 {
     public class IntegrationTests

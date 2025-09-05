@@ -1,5 +1,3 @@
-using System.IO;
-
 namespace SpecRec.Tests
 {
     public class ParrotTests
